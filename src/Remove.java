@@ -2,7 +2,7 @@ public class Remove {
     public static void main(String[] args) {
 
 
-        int a[] = {1, 1, 2};
+        int a[] = {1, 1, 2,2,3,4,5};
         System.out.println(Increasing(a));
     }
 
